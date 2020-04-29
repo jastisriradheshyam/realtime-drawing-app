@@ -1,0 +1,16 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "Real time drawing server app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jasti Sri Radhe Shyam",
+  "license": "MIT",
+  "dependencies": {
+    "rethinkdb": "^2.4.2",
+    "socket.io": "^2.3.0"
+  }
+}
