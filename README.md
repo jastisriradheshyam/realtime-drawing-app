@@ -51,3 +51,5 @@ This application let us collaborate on the drawing (simple black and white) in r
 
 ## References
 Course: https://app.pluralsight.com/library/courses/react-socketio-rethinkdb-building-real-time-apps/table-of-contents
+Github: https://github.com/hendrikswan/realtime-rethink-lessons
+Instructor: @hendrikswan
