@@ -50,6 +50,6 @@ This application let us collaborate on the drawing (simple black and white) in r
             - example: if base url is `http://localhost:3000` then to connect to 8001 change the url to `http://localhost:3000?8001` and enter.
 
 ## References
-Course: https://app.pluralsight.com/library/courses/react-socketio-rethinkdb-building-real-time-apps/table-of-contents
-Github: https://github.com/hendrikswan/realtime-rethink-lessons
-Instructor: @hendrikswan
+- Course: https://app.pluralsight.com/library/courses/react-socketio-rethinkdb-building-real-time-apps/table-of-contents
+- Github: https://github.com/hendrikswan/realtime-rethink-lessons
+- Instructor: @hendrikswan
